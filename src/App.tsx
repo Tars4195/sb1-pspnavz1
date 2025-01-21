@@ -34,7 +34,7 @@ const testimonials = [
   {
     name: 'Pierre Dubois',
     role: 'Propriétaire Multi-locations',
-    content: 'Depuis que j'utilise AVA, mon taux de réponse est de 100% et mes réservations ont augmenté de 30%. Un investissement qui vaut vraiment le coup.',
+    content: "Depuis que j'utilise AVA, mon taux de réponse est de 100% et mes réservations ont augmenté de 30%. Un investissement qui vaut vraiment le coup.",
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150&h=150'
   }
 ];
